@@ -15,6 +15,7 @@ rep(tmp, length=31)
 #g 
 x<-4
 y<-6 
+<<<<<<< HEAD
 z<-3
 xx<-rep(x, times=10) 
 yy<-rep(y, times=20)
@@ -99,3 +100,7 @@ yVec[x]
 #Question 8
 x<-cumprod(seq(2, 38, 2)/seq(3, 39, 2))
 sum(1+x)
+=======
+z <- 3
+#Question 2 
+>>>>>>> a76957c99495f913147606ea7c5d47e37a18dc66
